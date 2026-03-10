@@ -10,4 +10,4 @@ app.get("/",(req,res)=> {
 
 
 PORT = 5000;
-app.listen(PORT,()=>console.log("server is running"));
+app.listen(PORT,()=>console.log("server is running on port 5000"));
